@@ -34,10 +34,22 @@ for (int i = 0; i < instrucoes.Length; i++)
     }
     else if (acao == 'D')
     {
-        if (direcao == 'N') direcao = 'L';
-        else if (direcao == 'L') direcao = 'S';
-        else if (direcao == 'S') direcao = 'O';
-        else if (direcao == 'O') direcao = 'N';
+        if (direcao == 'N')
+        {
+            direcao = 'L';
+        }
+        else if (direcao == 'L')
+        {
+            direcao = 'S';
+        }
+        else if (direcao == 'S')
+        {
+            direcao = 'O';
+        }
+        else if (direcao == 'O')
+        {
+            direcao = 'N';
+        }
     }
 
     else if (acao == 'M')
