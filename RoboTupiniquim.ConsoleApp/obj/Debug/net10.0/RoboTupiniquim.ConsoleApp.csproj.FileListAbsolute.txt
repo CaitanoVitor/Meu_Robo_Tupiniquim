@@ -1,0 +1,14 @@
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.exe
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.deps.json
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.runtimeconfig.json
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.dll
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.pdb
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.AssemblyInfoInputs.cache
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.AssemblyInfo.cs
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.dll
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\refint\RoboTupiniquim.ConsoleApp.dll
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.pdb
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.genruntimeconfig.cache
+E:\C#\Meu Robô Tupiniquim\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\ref\RoboTupiniquim.ConsoleApp.dll
